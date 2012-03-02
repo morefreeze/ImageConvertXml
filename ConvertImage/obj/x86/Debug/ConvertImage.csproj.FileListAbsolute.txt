@@ -1,0 +1,9 @@
+D:\MSRA\VS2010Pro\convertXml\ConvertImage\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MSRA\VS2010Pro\convertXml\ConvertImage\obj\x86\Debug\ConvertImage.Form1.resources
+D:\MSRA\VS2010Pro\convertXml\ConvertImage\obj\x86\Debug\ConvertImage.Properties.Resources.resources
+D:\MSRA\VS2010Pro\convertXml\ConvertImage\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\MSRA\VS2010Pro\convertXml\ConvertImage\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\MSRA\VS2010Pro\convertXml\ConvertImage\bin\Debug\ConvertImage.exe
+D:\MSRA\VS2010Pro\convertXml\ConvertImage\bin\Debug\ConvertImage.pdb
+D:\MSRA\VS2010Pro\convertXml\ConvertImage\obj\x86\Debug\ConvertImage.exe
+D:\MSRA\VS2010Pro\convertXml\ConvertImage\obj\x86\Debug\ConvertImage.pdb
