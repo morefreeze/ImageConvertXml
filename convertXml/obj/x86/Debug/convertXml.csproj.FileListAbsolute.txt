@@ -1,5 +1,0 @@
-D:\MSRA\VS2010Pro\convertXml\convertXml\bin\Debug\convertXml.exe
-D:\MSRA\VS2010Pro\convertXml\convertXml\bin\Debug\convertXml.pdb
-D:\MSRA\VS2010Pro\convertXml\convertXml\obj\x86\Debug\ResolveAssemblyReference.cache
-D:\MSRA\VS2010Pro\convertXml\convertXml\obj\x86\Debug\convertXml.exe
-D:\MSRA\VS2010Pro\convertXml\convertXml\obj\x86\Debug\convertXml.pdb
